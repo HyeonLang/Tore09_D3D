@@ -21,11 +21,14 @@
 #include "RawBufferDemo.h"
 #include "TextureBufferDemo.h"
 #include "FunctionPtrDemo.h"
+#include "BinaryFileDemo.h"
 
 void Main::Initialize()
 {
 	//Push(new TerrainDemo());
-	Push(new FunctionPtrDemo());
+	//Push(new FunctionPtrDemo());
+	//Push(new CubeMapDemo());
+	Push(new BinaryFileDemo());
 }
 
 

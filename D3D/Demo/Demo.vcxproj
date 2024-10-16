@@ -145,6 +145,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="BinaryFileDemo.cpp" />
     <ClCompile Include="CubeDemo.cpp" />
     <ClCompile Include="CubeMapDemo.cpp" />
     <ClCompile Include="FunctionPtrDemo.cpp" />
@@ -168,6 +169,7 @@
     <ClCompile Include="WorldDemo.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="BinaryFileDemo.h" />
     <ClInclude Include="CubeDemo.h" />
     <ClInclude Include="CubeMapDemo.h" />
     <ClInclude Include="FunctionPtrDemo.h" />
